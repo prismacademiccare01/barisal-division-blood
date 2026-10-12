@@ -1,0 +1,6 @@
+{
+  "name": "Barishal Rokto - Blood Donor Management",
+  "description": "Production-ready Blood Donor Management & Emergency Blood Request Platform for Barishal Division with PWA and mobile app capabilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
